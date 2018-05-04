@@ -36,6 +36,35 @@
 
 * History & Impacts
 
+## Mastery Items
+
+* Developing Abstractions
+* Developing & Implementing Algorithms
+  - Know the building blocks of an algorithm
+  - Apply an iterative design process
+  - Develop formal or informal tests
+* Independently Learning How To Do Something
+* Working With Unity
+* Working In Diverse Teams
+* Applying the Design Process
+* Critique
+* Careers
+* Impact
+* Technology Skills
+* Reading & Writing
+  - Reading to support the development of new skills and/or to acquire necessary information.
+  - Writing to describe a process
+  - Writing to create project specs and documentation
+
+### SBG in a Points Based World
+
+* Mastery items each
+
+Grade reports:
+* Number grade
+* Narrative paragraph
+* Learning mastery rubric
+
 ## GDP 1 Units
 
 ### Title
