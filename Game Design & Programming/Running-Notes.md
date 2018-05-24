@@ -94,3 +94,9 @@ Design our own games:
   - Blog posts
   - Game prototype
   - Resume
+
+## Cheat Sheets
+
+Require a binder (with some kind of assessment)
+
+Provide a "cheat sheet" for each unit as well as rubrics.
