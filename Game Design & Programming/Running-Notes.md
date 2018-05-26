@@ -1,3 +1,14 @@
+# 2018.05.19
+
+People are natural patern seekers - John Medina (increasing cognative engagement)
+
+Practice recognizing patterns, patterns are a foothold for constructing algorithms.
+
+## Pattern Exercises
+
+* https://brilliant.org
+* https://brilliant.org/practice/pattern-recognition-intro/?subtopic=pattern-recognition
+
 # 2018.05.18
 
 Display for each project - [Leadership, Communicating comutational ideas]
