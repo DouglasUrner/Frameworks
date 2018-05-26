@@ -45,9 +45,11 @@ A - expanding
 
 Games played, critiqued, and developed in class *must* be school appropriate. Specifically this means that games with mechanics built around violence (especially gratuitious violence), games with explicit sexual content, games which sterotype individuals or groups, are not apporpriate - and they will not be accepted for any assignment. If you wonder if your idea might fall into the forbidden category ask *first* so that you don't waste time.
 
-Game industry ratings - use one as the break point. Teach the ratings as an entry point and use content as a launching point for a discussion of what makes games fun to play vs. interesting (e.g., what is the draw of violence in games and other entertainment media).
+Game industry ratings (e.g., [ESRB][])- use one as the break point. Teach the ratings as an entry point and use content as a launching point for a discussion of what makes games fun to play vs. interesting (e.g., what is the draw of violence in games and other entertainment media).
 
 Also use this as a launching point for a discussion of abstraction and modeling - consider games that are (or can be read as being) explicity about war and conflict and which do not include any explicit violence, for example Chess, Go, Risk, Stratego).
+
+[esrb]: <http://www.esrb.org/ratings/ratings_guide.aspx>
 
 ## Grouping
 
