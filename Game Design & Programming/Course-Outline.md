@@ -1,63 +1,70 @@
-# Course Outline
+# GDP 1 & 2 Course Outlines
 
-Computational thinking
-Problem solving
-Working on diverse teams
-Self-directed learning
-Project management
+<!-- Calculating available time & unit lengths:
 
-## GDP 1
+180 days / year - (days lost to testing or other planned dissruptions)
+ 90 days / semester (more disurptions in second semester)
+ 10 days / block cycle
+  9 block cycles = 6:49 / cycle * 9 = 61:20 of class time (bell to bell)
+ 45 class meetings / semester
+-->
 
-1st quarter: big ideas, background with quick proctice projects.
-2nd quarter: short and long team projects - with departments.
+## Unit Structure
 
-Computers as problem sorving tools in a variety of disciplines.
-Games as projects that are tackled by diverse teams with a variety of skillsets.
-"Games" can be applied to many problems.
+* Objectives
+* Developing Collaboration & Leadership Skills
+* Career Exploration
+* Summative Assessment
+* Design Practices Introduced & Reinforced
+* Tools
 
-Working it teams
+## GDP-1
 
-Final project choices:
-- **Design** of a new game.
-- Specify and select art for an existing prototype
-- Code related project
+* Unit 1: Critical Thinking About Games (September / February)
+* Unit 2: The Design Process (October / March)
+* Unit 3: Digital Games & Digital Tools (November / April)
+* Unit 4: Final Project (December-January / May-June)
 
-Fourdational computer skillset
-Overview of industry and use of skills from class
-The process of creating a game
-Algorithms
-Abstraction
-Familiarity with C# code:
-- The workings of computers and the role of code
-- Syntax, what it  looks like
+### Level 1: Critical Thinking About Games
 
-Is design for me?
-Is CS for me?
-Would I like to work in the GD industry?
-How might these skills apply to careers that I'm interested in?
+* Theories of game "purpose" and game criticism
 
-### Overall Outcomes
+* Canvas skills
+* File management
+* Typing proficiency assessment
 
-1. Game Design
-  - Design of games
-  - Generic design process / design thinking
-  - Strategies for solving big problems
-2. Choose & create minimally animated sprites
+### Level 2: The Design Process
 
-###
-###
-###
-###
-###
+Design Process & Paper Prototyping
 
-## GDP 2
+Work in assigned groups of 3 or 4 - groups are diverse in terms of grade level and GPA range.
 
-### Overall Outcomes
+#### Objectives
 
+* Use the design process to explore & refine ideas as you create a prototype to show to your client.
+  - Client presents a game design request to explore a situation.
 
+#### Summative Assessment
 
-###
-###
-###
-###
-###
+Whole class works on one problem (design challenge)
+
+**Choices:**
+
+* Type: Contest, Puzzle, Simulation, Game
+* Style:
+  - Race To the Finish
+
+#### Collaboration Tools:
+
+* Google Suite
+
+### Level 3: Digital Games & Digital Tools
+
+### Level 4: Semester Project
+
+## GDP-2
+
+* Unit 5: Programming for Designers
+* Unit 6: Unity Foundations
+* Unit 7: Advanced Unity
+* Unit 8: Final Project
