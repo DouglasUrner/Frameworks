@@ -1,12 +1,78 @@
+# Running Notes - TOC
+
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Running Notes - TOC](#running-notes-toc)
+- [2018.05.27](#20180527)
+	- [[Zoë Quinn][zq] - Depression Quest - Gamergate](#zo-quinnzq-depression-quest-gamergate)
+	- [[Twine][]](#twine)
+	- [Game Engines](#game-engines)
+	- [Game Criticism](#game-criticism)
+		- [People](#people)
+- [2018.05.26](#20180526)
+	- [GDP-1 Unit Ideas & Sequence](#gdp-1-unit-ideas-sequence)
+	- [GDP-2 Unit Ideas & Sequence](#gdp-2-unit-ideas-sequence)
+	- [Unit Structure](#unit-structure)
+	- [Unit 1 -](#unit-1-)
+		- [Objectives](#objectives)
+		- [Summative Assessment](#summative-assessment)
+		- [Collaboration Tools:](#collaboration-tools)
+- [2018.05.25](#20180525)
+	- [Pattern Exercises](#pattern-exercises)
+- [2018.05.24](#20180524)
+	- [Big Rubric](#big-rubric)
+	- [Grade expectations:](#grade-expectations)
+	- [Game Concept Policy](#game-concept-policy)
+	- [Grouping](#grouping)
+	- [Scenario](#scenario)
+	- [Outside Mentors](#outside-mentors)
+	- [Summer Project](#summer-project)
+	- [Summative Assessments](#summative-assessments)
+	- [Cheat Sheets](#cheat-sheets)
+- [2018.05.10](#20180510)
+	- [GDP 1](#gdp-1)
+		- [Overall Outcomes](#overall-outcomes)
+		- [](#)
+		- [](#)
+		- [](#)
+		- [](#)
+		- [](#)
+	- [GDP 2](#gdp-2)
+		- [Overall Outcomes](#overall-outcomes)
+		- [](#)
+		- [](#)
+		- [](#)
+		- [](#)
+		- [](#)
+
+<!-- /TOC -->
+
 # 2018.05.27
 
-[Zoë Quinn][zq] - Depression Quest - Gamergate
+## [Zoë Quinn][zq] - Depression Quest - Gamergate
 * [Zoë Quinn's blog][zq-blog]
 * [Vox interview with Sean Illing](https://www.vox.com/culture/2017/9/19/16301682/gamergate-alt-right-zoe-quinn-crash-override-interview)
 * [Wired Article on surviving Gamergate](https://www.wired.com/2017/09/geeks-guide-zoe-quinn/)
+* [GamerGate: A Closer Look At The Controversy Sweeping Video Games](https://www.forbes.com/sites/erikkain/2014/09/04/gamergate-a-closer-look-at-the-controversy-sweeping-video-games/) - Forbes, 2014
 
 [zq]: <https://zoequinn.squarespace.com>
 [zq-blog]: <http://blog.unburntwitch.com>
+
+## [Twine][]
+
+[twine]: <http://twinery.org>
+
+* [Anna Anthropy and the Twine revolution](https://www.theguardian.com/technology/gamesblog/2013/apr/10/anna-anthropy-twine-revolution) - The Guardian, 2013
+
+## Game Engines
+
+http://www.gamecareerguide.com/features/529/what_is_a_game_.php?page=1
+
+## Game Criticism
+
+### People
+
+* https://en.wikipedia.org/wiki/TotalBiscuit
 
 # 2018.05.26
 

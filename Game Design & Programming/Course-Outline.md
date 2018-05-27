@@ -32,6 +32,7 @@
 * Canvas skills
 * File management
 * Typing proficiency assessment
+* Collaboration tool: Google Docs
 
 #### Topics / Resources
 
@@ -72,7 +73,7 @@ Whole class works on one problem (design challenge)
 
 #### Collaboration Tools:
 
-* Google Suite
+* Git & GitHub - Markdown files for game documentation (esp rules) so that changes can be tracked. Change control (reviews), working on branches.
 
 ### Level 3: Digital Games & Digital Tools
 
@@ -91,6 +92,12 @@ Whole class works on one problem (design challenge)
 
 * Unity: Playground Project
 
+* Assets
+  - Sprites
+  - Audio
+  - Componets
+  - Materials
+  - Prefabs
 
 #### Summative Assessment
 
@@ -101,6 +108,12 @@ Whole class works on one problem (design challenge)
 ## GDP-2
 
 * Unit 5: Programming for Designers
+  - Intro - Code.org CSP Unit 3
 * Unit 6: Unity Foundations
+  - Learning the tool
+  - Animation
+  - UI Design
+  - Multi-player
 * Unit 7: Advanced Unity
+  - Polishing a game
 * Unit 8: Final Project
