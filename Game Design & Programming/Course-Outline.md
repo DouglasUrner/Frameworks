@@ -20,10 +20,10 @@
 
 ## GDP-1
 
-* Unit 1: Critical Thinking About Games (September / February)
-* Unit 2: The Design Process (October / March)
-* Unit 3: Digital Games & Digital Tools (November / April)
-* Unit 4: Final Project (December-January / May-June)
+* Level 1: Critical Thinking About Games (September / February) (1)
+* Level 2: The Design Process (October / March) (2)
+* Level 3: Digital Games & Digital Tools (November / April) (2)
+* Level 4: Final Project (December-January / May-June) (4)
 
 ### Level 1: Critical Thinking About Games
 
@@ -32,6 +32,22 @@
 * Canvas skills
 * File management
 * Typing proficiency assessment
+
+#### Topics / Resources
+
+Several games to play and discuss in terms of fun, engagement, and message.
+
+* Jane McGonigal - Games to Change the World
+* Brenda Romero
+* Zoë Quinn - The game I had to write
+* Keith Burgun - What makes a game?
+* Ian Bogost - Play Anything
+* Jeremy Gibson Bond - Layared Tetrad
+* MDA
+
+#### Summative Assessment
+
+A critique of a game that was created with a clear purpose in mind, using a thoretical framework and "industry standard" vocabulary.
 
 ### Level 2: The Design Process
 
@@ -60,7 +76,27 @@ Whole class works on one problem (design challenge)
 
 ### Level 3: Digital Games & Digital Tools
 
+* Game Engine Overview
+
+  Focus on the way the choice of a game engine defines the game by impacting the interactions and mechanics that are supported. For this reason we're going to look at Unity, but not Unreal or GameMaker since they are in more or less the same niche as Unity. Some of the game engines that we will look at in our survey are:
+
+  - Unity - Physics / action
+  - Twine - Interactive Fiction (IF)
+
+
+* Other Tools
+  - Audacity
+  - Piskel / Photoshop
+  - Blender
+
+* Unity: Playground Project
+
+
+#### Summative Assessment
+
 ### Level 4: Semester Project
+
+#### Summative Assessment
 
 ## GDP-2
 

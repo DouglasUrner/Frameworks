@@ -1,3 +1,13 @@
+# 2018.05.27
+
+[Zoë Quinn][zq] - Depression Quest - Gamergate
+* [Zoë Quinn's blog][zq-blog]
+* [Vox interview with Sean Illing](https://www.vox.com/culture/2017/9/19/16301682/gamergate-alt-right-zoe-quinn-crash-override-interview)
+* [Wired Article on surviving Gamergate](https://www.wired.com/2017/09/geeks-guide-zoe-quinn/)
+
+[zq]: <https://zoequinn.squarespace.com>
+[zq-blog]: <http://blog.unburntwitch.com>
+
 # 2018.05.26
 
 ## GDP-1 Unit Ideas & Sequence
