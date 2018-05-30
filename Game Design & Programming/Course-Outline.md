@@ -4,7 +4,7 @@
 
 180 days / year - (days lost to testing or other planned dissruptions)
  90 days / semester (more disurptions in second semester)
- 10 days / block cycle
+ 10 days / block cycle (5 class meetings)
   9 block cycles = 6:49 / cycle * 9 = 61:20 of class time (bell to bell)
  45 class meetings / semester
 -->
