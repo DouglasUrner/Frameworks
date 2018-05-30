@@ -3,6 +3,8 @@
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Running Notes - TOC](#running-notes-toc)
+- [2018.05.29](#20180529)
+	- [Level 2 Ideas](#level-2-ideas)
 - [2018.05.27](#20180527)
 	- [[Zoë Quinn][zq] - Depression Quest - Gamergate](#zo-quinnzq-depression-quest-gamergate)
 	- [[Twine][]](#twine)
@@ -46,6 +48,16 @@
 		- [](#)
 
 <!-- /TOC -->
+
+# 2018.05.29
+
+## Level 2 Ideas
+
+Design a character
+
+Concepts for
+
+https://www.youtube.com/watch?v=fRsURJf4SjQ
 
 # 2018.05.27
 
