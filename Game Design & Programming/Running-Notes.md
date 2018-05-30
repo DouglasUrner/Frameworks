@@ -3,6 +3,7 @@
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Running Notes - TOC](#running-notes-toc)
+- [2018.05.30](#20180530)
 - [2018.05.29](#20180529)
 	- [Level 2 Ideas](#level-2-ideas)
 - [2018.05.27](#20180527)
@@ -48,6 +49,21 @@
 		- [](#)
 
 <!-- /TOC -->
+
+# 2018.05.30
+
+Algoritms - challenge scaled by ruberic:
+- AP: Use exactly what was presented
+- PR: Combine
+- EX: Discover new (research); develop tests
+
+Use docs [SDL]
+
+Groups discuss and take notes, assessment is based on individual task supported by discussion. NY and AP scores come from tracking the discussion and asking clarifying questions. Score group discussion by looking at whole team's notes for evidence of collaboration and mutual support.
+
+Score based on evidence presented, not on evidence missing.
+
+Use GH wiki
 
 # 2018.05.29
 
