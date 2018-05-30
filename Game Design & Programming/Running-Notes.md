@@ -4,6 +4,7 @@
 
 - [Running Notes - TOC](#running-notes-toc)
 - [2018.05.30](#20180530)
+	- [Assessment](#assessment)
 - [2018.05.29](#20180529)
 	- [Level 2 Ideas](#level-2-ideas)
 - [2018.05.27](#20180527)
@@ -52,8 +53,9 @@
 
 # 2018.05.30
 
-Algoritms - challenge scaled by ruberic:
-- AP: Use exactly what was presented
+Algorithms - challenge scaled by ruberic:
+- NY: (high) notes and an attempt, but unable to create a complete/working implementation, or needing substantial assisstance.
+- AP: Use exactly what was presented (reproduce examples from class, high end score if done from notes and/or without assistance)
 - PR: Combine
 - EX: Discover new (research); develop tests
 
@@ -64,6 +66,14 @@ Groups discuss and take notes, assessment is based on individual task supported 
 Score based on evidence presented, not on evidence missing.
 
 Use GH wiki
+
+UX
+
+Graphic design
+
+## Assessment
+
+Student progress sheets.
 
 # 2018.05.29
 
