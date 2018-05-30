@@ -56,6 +56,11 @@ Design Process & Paper Prototyping
 
 Work in assigned groups of 3 or 4 - groups are diverse in terms of grade level and GPA range.
 
+* Develop a game idea inside of a set of constraints (games for good)
+* Develop your character ([Kate Welch][kw-1] - )
+
+[kw-1]: <https://www.youtube.com/watch?v=fRsURJf4SjQ>
+
 #### Objectives
 
 * Use the design process to explore & refine ideas as you create a prototype to show to your client.
