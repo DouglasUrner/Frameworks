@@ -3,6 +3,7 @@
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Running Notes - TOC](#running-notes-toc)
+- [2018.05.31](#20180531)
 - [2018.05.30](#20180530)
 	- [Assessment](#assessment)
 - [2018.05.29](#20180529)
@@ -50,6 +51,39 @@
 		- [](#)
 
 <!-- /TOC -->
+
+# 2018.06.01
+
+## Progression of Git usage / skills
+
+* Create A Repository (GitHub Pages site)
+* Document Plans ()
+* Blog
+* Fork / Pull Request
+* Branch / Merge
+* Issues
+
+## Making assessment value growth
+
+* Identify the growth path in the curriculm (what are the big ideas/concepts that you want to see growth in).
+* Identify essential knowledge, tasks, and understandings (conceptal grasp).
+* Identify scaffolding - how do you build the capacity to do deeper work (climbing a ladder).
+* Identify "levels" and a way to assess starting points.
+* Make an assessment matrix.
+* Have concrete tasks that real people do regularly in the field - assign work that mimics these tasks.
+* Create lessons & assingments around completing those tasks.
+* Require collabarative work / teach team and self-assessment. Focus assessment on growth. What can you do now that you couldn't do before? What do you understand now that you didn't understand when we started? (Blog entries)
+
+## What we do:
+
+* Design experiences (design process)
+
+# 2018.05.31
+
+## Git & GitHub Skills Development
+1. Create accounts
+2. Hello World
+3. Knife-Spoon
 
 # 2018.05.30
 
