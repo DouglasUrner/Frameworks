@@ -77,6 +77,9 @@
 ## What we do:
 
 * Design experiences (design process)
+* Project management
+* Software development
+* 
 
 # 2018.05.31
 
