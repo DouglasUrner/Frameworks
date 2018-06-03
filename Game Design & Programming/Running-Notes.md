@@ -52,6 +52,26 @@
 
 <!-- /TOC -->
 
+# 2018.06.03
+
+## Start of class routine
+
+After introduction to Canvas
+
+1. Put away devices (early on remind of consequences).
+2. Get (get out) notebook and start day's page (remind of random checks, occasionally do back-to-back checks on the same person).
+	 - Review previous day's work and plans for today from last class.
+	 - Group "stand up".
+3. If we are going to be using computers:
+	 - Log on
+	 - Sign in to Canvas
+		 - Check upcoming assignments, and
+		 - Feedback on previous assignments.
+		 - Know due and close dates.
+	 - Occasional (especially early in the semester) graded "sign on" quiz to reinforce habits and solidify process.
+
+Find some way to welcome and reward questions from previous lessons. Post discussion on Canvas, ask question at the beginning of class - public, so everybody benefits.
+
 # 2018.06.02
 
 ## Teach how to organize work on multiple displays
