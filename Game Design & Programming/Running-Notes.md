@@ -52,6 +52,12 @@
 
 <!-- /TOC -->
 
+# 2018.06.02
+
+## Teach how to organize work on multiple displays
+
+* Instructions on one monitor, workspace on the other.
+
 # 2018.06.01
 
 ## Progression of Git usage / skills
@@ -79,7 +85,7 @@
 * Design experiences (design process)
 * Project management
 * Software development
-* 
+*
 
 # 2018.05.31
 
