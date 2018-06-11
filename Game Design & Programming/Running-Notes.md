@@ -1,8 +1,11 @@
 # Running Notes - TOC
 
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Running Notes - TOC](#running-notes-toc)
+<details>
+	<summary>
+		Table of Contents
+	</summary>
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 - [2018.05.31](#20180531)
 - [2018.05.30](#20180530)
 	- [Assessment](#assessment)
@@ -51,6 +54,7 @@
 		- [](#)
 
 <!-- /TOC -->
+</details>
 
 # 2018.06.03
 
