@@ -1,11 +1,149 @@
-# Level 0: Basic Skills Assessment
+# Level 1: Foundations of Game Design (Blocks: 4; Hours: 5h 20m)
+
+## Components & Assessments
+
+### Performance Assessments
+
+* Precisely follow a set of written instructions to set up class folders and online accounts.
+  - Assess collaboration skills through observing students assisting / teaching each other foundational file management and organizational skills.
+* Notetaking, including skill development and a mind map directing and recording topic research.
+* Working as a team, research a current topic on games and society and present a position as a: blog post, infographic, presentation with digital slides, or participate in a debate.
+
+### Leadership Alignment
+
+## Standards & Competencies
+
+### Standards
+
+* **WACSLS 3A-I-1-26:** Compare and debate the positive and negative impacts of computing on behavior and culture.
+* **WACSLS 3A-I-1-27:** Demonstrate how computing enables new forms of experience, expression, communication, and collaborating.
+* **CCSS.ELA-Literacy.CCRA.R.2**	Determine central ideas or themes of a text and analyze their development; summarize the key supporting details and ideas.
+* **CCSS.ELA-Literacy.CCRA.W.6:** Use technology, including the Internet, to produce and publish writing and to interact and collaborate with others.
+
+### Competencies
+
+* Precisely follow a set of written instructions to accomplish a task.
+* Manage digital files and folders - create, name and rename, organize.
+
+### 21st Century Skills
+
+* Think Creatively
+* Work Creatively with Others
+* Access and Evaluate Information
+* Create Media Products
+* Manage Goals and Time
+* Work Effectively in Diverse Teams
+
+## Unit Notes
+
+# Level 2: Critical Thinking About Games (Blocks: 4; Hours: 5h 20m)
+
+## Components & Assessments
+
+### Performance Assessments
+
+* Demonstrate the vocabulary and conceptual frameworks used for discussing game design and development.
+  - Knowledge tests.
+  - Use of vocabulary and concepts in written work and class discussion.
+* After playtesting a variety of physical and digital games produce a critique using "industry standard" vocabulary and concepts.
+
+### Leadership Alignment
+
+## Standards & Competencies
+
+### Standards
+
+* **CCSS.ELA-Literacy.CCRA.L.6:**	Acquire and use accurately a range of general academic and domain-specific words and phrases sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when encountering an unknown term important to comprehension or expression.
+*
+
+### Competencies
+
+* Precisely follow a set of written instructions to accomplish a task.
+
+## Unit Notes
+
+# Level 3: Prototyping Game Ideas (Blocks: 8; Hours: 10h 40m)
+
+## Components & Assessments
+
+### Performance Assessments
+
+* Precisely follow a set of written instructions to set up class
+
+### Leadership Alignment
+
+## Standards & Competencies
+
+### Standards
+
+*
+
+### Competencies
+
+* Precisely follow a set of written instructions to accomplish a task.
+
+## Unit Notes
+
+# Level 4: Creating Game Assets (Blocks: 8; Hours: 10h 40m)
+
+## Components & Assessments
+
+### Performance Assessments
+
+* Precisely follow a set of written instructions to set up class
+
+### Leadership Alignment
+
+## Standards & Competencies
+
+### Standards
+
+*
+
+### Competencies
+
+* Precisely follow a set of written instructions to accomplish a task.
+
+## Unit Notes
+
+# Level 5: Slow Motion Collaborative Game Jam (Blocks: 20; Hours: 26h 40m)
+
+## Components & Assessments
+
+### Performance Assessments
+
+* Precisely follow a set of written instructions to set up class
+
+### Leadership Alignment
+
+## Standards & Competencies
+
+### Standards
+
+*
+
+### Competencies
+
+* Precisely follow a set of written instructions to accomplish a task.
+
+## Unit Notes
+
+-------------------
+
+# Level 0: Foundations of Game Design
+
+* Duration: 3-5 blocks
 
 ## Objective
 
 Assess foundational computer, collaboration, communication, and project management skills. Precisely following written directions.
 
 * Identify leaders
-* Select teams for next unit
+* Assess foundational skills
+* Develop note taking skills
+*
+
+Use results to select teams for next unit.
 
 ## Summative Assessment
 
@@ -34,6 +172,12 @@ New teams interview for member skills. Failing teams can get shut down (disbande
   - Accurate use of vocabulary
 
 # Level 1: Critical Thinking About Games
+
+## Objective
+
+
+
+## Summative Assessment
 
 # Level 2: Prototyping
 
