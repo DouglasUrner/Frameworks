@@ -62,7 +62,7 @@
 
 ## Unit Notes
 
-# Level 3: Prototyping Game Ideas (Blocks: 8; Hours: 10h 40m)
+# Level 3: Prototyping Game Ideas (Blocks: 12; Hours: 10 40m)
 
 ## Components & Assessments
 
@@ -84,17 +84,34 @@
 
 ## Unit Notes
 
-# Level 4: Creating Game Assets (Blocks: 8; Hours: 10h 40m)
+# Level 4: Creating Game Assets (Blocks: 10; Hours: 10h 40m)
 
 ## Components & Assessments
 
 ### Performance Assessments
 
-* Precisely follow a set of written instructions to set up class
+* Use of a sprite editing tool to create game characters and objects.
+* Use of audio editing software to create sound effects.
+* Adding the assets to a game.
+* Design of tvo characters:
+
+  "Walk a mile in their shoes." Have a collection of source materials for the experiences of different groups. Migration stories, history of people in our community. Another source could be heretical scientists (or just groundbreaking scientists).
+
+  Start with "your people" - strengths, challenges, sterotypes (what's true, what distorted), how are they portrayed in entertainment media.
+
+  - You: a realistic you with a "better you" power and a "fatal flaw."
+  - The person you don't know.
+
+  Post anonymously for critique (person doing the critique doesn't know whose characters they are reviewing), share names after critique so that the critiquer is accountable and the the creator can ask questions.
+* Audio or sprites for one (both?) of the characters.
 
 ### Leadership Alignment
 
 ## Standards & Competencies
+
+* Research
+* Writing
+* Digital Tools
 
 ### Standards
 
@@ -106,7 +123,7 @@
 
 ## Unit Notes
 
-# Level 5: Slow Motion Collaborative Game Jam (Blocks: 20; Hours: 26h 40m)
+# Level 5: Slow Motion Collaborative Game Jam (Blocks: 14; Hours: 26h 40m)
 
 ## Components & Assessments
 
