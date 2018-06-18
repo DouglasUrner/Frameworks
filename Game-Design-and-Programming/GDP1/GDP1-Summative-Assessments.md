@@ -1,4 +1,4 @@
-## Unit 0: Baseline
+## Unit 0: Who Makes Games
 
 * **Task:** Industry profile - choose one of the options below, identify a person working in the industry and write them a letter or e-mail to invite them to speak (in person or virtually) to our class:
   - A game designer
@@ -35,13 +35,20 @@
 
 ## Unit 1: Critical Thinking About Games
 
-* **Task:** an
+* **Task:** Select a game that intends to have a positive impact on the world and make a critique of it. The critique should be written to an audience of game deelopers interested in creating interactive experiences intended to make a positive impact on the world – use vocabulary and a conceptual framework apporpriate to your audience.
 
-* **Driving Question:** What is a game? What are the qualities of a good game? How do games impact the world?
+* **Driving Question:** How do we create games that have a positive impact on their players and the world? As we look at this question we'll be asking ourselves:
+  - What is a game?
+  - What are the qualities of an engaging game?
+  - How do games impact the world?
+  - Can we design games with intention?
+  - How can we tell if the actually work?
 
 ## Unit 2: Design & Prototyping
 
-* **Task:**
+* **Task:** Design, playtest (at least two iterations), a paper prototype of a game that can be played by two players (more is ok, but it must work with two). The prototype must be a game that intends to give the players a glimpse into the life or experience of another person or group of people.
+
+  >The prompt for the summative assessment should lead to a game that can fairly obviously be prototyped in the Playground Project toolkit.
 
 * **Driving Question:** How do you find ideas for games and turn them into designs with a playable prototypes?
 

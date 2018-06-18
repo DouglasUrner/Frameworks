@@ -1,4 +1,4 @@
-## Unit 0: Baseline
+## Unit 0: Who Makes Games
 
 * Overview of the summative assessment.
   - Task description
@@ -30,6 +30,23 @@
     - How did you get it?
   - Advice?
 
-## Unit Z: Final Project
+## Unit 1: Critical Thinking About Games
+
+* Summative Assessment
+  - Overview
+  - Rubric
+  - Examples
+  - Resources
+* List of Games That Try To Change the World (20-40)
+  - World Without Oil
+  - Superstruct
+  -
+  - Depression Quest
+  - [SPARX](https://en.wikipedia.org/wiki/Sparx_(video_game))
+  - Mechanic Is The Message Games
+  - [The Parable of the Polygons](https://en.wikipedia.org/wiki/Parable_of_the_Polygons)
+* Quick mechanic examples
+
+## Final Project:
 
 * Overview of the summative assessment.
