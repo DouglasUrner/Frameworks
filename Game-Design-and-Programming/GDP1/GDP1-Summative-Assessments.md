@@ -1,9 +1,9 @@
 ## Unit 0: Baseline
 
-* **Task:** Industry profile - choose one of the options below, identify a person working in the industry and write them a letter or e-mail to invite them to speak to our class:
+* **Task:** Industry profile - choose one of the options below, identify a person working in the industry and write them a letter or e-mail to invite them to speak (in person or virtually) to our class:
   - A game designer
-  - A specific entry point to the game industry
-  - A non-entertainment user of game design expertise
+  - A game programmer
+  - Someone working for non-entertainment user of game design expertise
     - Simulations (flight simulation, ship handling, batting)
     - Education (practice activites, gamify)
     - Architecture (tours of buildings)
@@ -35,7 +35,7 @@
 
 ## Unit 1: Critical Thinking About Games
 
-* **Task:**
+* **Task:** an
 
 * **Driving Question:** What is a game? What are the qualities of a good game? How do games impact the world?
 
