@@ -1,5 +1,15 @@
 ## Unit 0: Baseline
 
+* Overview of the summative assessment.
+  - Task description
+  - Example
+  - Rubric
+  - Suggestions for starting research:
+    - Xelo
+    - Articles
+    - Videos
+    - Search terms
+  - Citation resource
 * Notebooks
   - Notebook score and rubric card
     - Develop rubric
@@ -13,6 +23,13 @@
     - Summative
     - Reassessment / Grade improvement
     - Due dates
-* 
+* Speaker (in person or via video call):
+  - What do you do?
+  - How did you get interested?
+  - What was your first job in the industry?
+    - How did you get it?
+  - Advice?
 
 ## Unit Z: Final Project
+
+* Overview of the summative assessment.
