@@ -17,4 +17,14 @@
   - ISTE
   - CSTA
 
-## Unit Z: Final Project
+## Final Project
+
+Design a game, plan, then implement a digital prototype of the game.
+
+The concept and some of the ideas for this project should/could be developed over the course of the semester
+
+Project elements:
+
+1. Initial game concept and paper prototype.
+2. Playtest #1.
+3. Revisions based on playtest.
