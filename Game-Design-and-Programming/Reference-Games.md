@@ -1,9 +1,9 @@
 # Games To Use As Examples
 
 * Delete
-* The Parable of the Parallegrams
+* [The Parable of the Polygons][parable]
 * Trans person
-* STAX
+* [SPARX][]
 * Jane McGonigal
 * Brenda Romero / Brathwrait
 * Life runner
@@ -11,3 +11,6 @@
 * Depression Quest
 * Tetris
 * Mario
+
+[parable]: <https://ncase.me/polygons/>
+[sparx]: <https://en.wikipedia.org/wiki/Sparx_(video_game)>
