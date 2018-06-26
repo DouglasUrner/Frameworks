@@ -1,3 +1,162 @@
+# Game Design & Programming 1
+
+## Unit 0: Introduction - Gamer Meets Designer (Blocks: 4; Hours: h m)
+
+### Components & Assessments
+
+>Unit Objectives:
+* Initial assessment of Grade 8 Computer Science and Educational Technology standards. In particular:
+  - Keyboarding
+  - File management
+  - Account management
+* Identification of leaders.
+* Assessment of research skills.
+* Assessment of self-directed learning.
+
+#### Performance Assessments
+
+* Notebook check
+* Blog post - research on a current topic in the game industry (selected from a list of options)
+* Organization of class folders and tracking of accounts
+
+#### Leadership Alignment
+
+### Standards & Competencies
+
+#### Standards
+
+* **WACSLS 3A-I-1-26:** Compare and debate the positive and negative impacts of computing on behavior and culture.
+* **WACSLS 3A-I-1-27:** Demonstrate how computing enables new forms of experience, expression, communication, and collaborating.
+* **CCSS.ELA-Literacy.CCRA.R.2**	Determine central ideas or themes of a text and analyze their development; summarize the key supporting details and ideas.
+* **CCSS.ELA-Literacy.CCRA.W.6:** Use technology, including the Internet, to produce and publish writing and to interact and collaborate with others.
+
+#### Competencies
+
+* Precisely follow a set of written instructions to accomplish a task.
+* Manage digital files and folders - create, delete, name, rename, and organize.
+* Organize online resources with bookmarks, manage bookmarks.
+
+#### 21st Century Skills
+
+## Unit 1: Critical Thinking About Games (Blocks: 5; Hours: h m)
+
+Begin developing a critical framework and vocabulary for analyzing games. We will also begin to develop our skills as _playtesters_ as we investigate the properties of some simple games.
+
+What are we saying when we call something a _game_? What makes a game "fun" and engaging? How can we clearly communicate our ides about games with other game developers?
+
+>Handout to go in notebook outlining playtest process. Hand out and have students tape into notebooks after 1st playtest. Review, identify and name steps. Practice recording the results.
+
+Do three or four rounds of playtests:
+1. (I) Guided with interspersed discussion.
+2. (W) Guiding process (grade for accurately following process steps and taking notes)
+3. (Y) Practice
+4. (Y) Summative
+
+Playtests:
+* Well defined short game.
+* Specific questions that direct students to think about specific qualities of the game under test.
+* Anticipate responses.
+* Specific options for expected responses.
+
+### Components & Assessments
+
+#### Performance Assessments
+
+* Demonstrate the ability to use common vocabulary and conceptual frameworks in discussions of game design and development.
+  - Test of framework knowledge:
+    - MDA
+    - Game elements (Tracey Fullerton)
+    - Games and related forms (Keith Burgeron)
+  - Vocabulary test:
+  - Use of vocabulary and conceptual framesworks in written work and class discussion.
+* After playtesting a variety of games produce a short report proposing a modification to the game tested using "industry standard" vocabulary and concepts.
+
+#### Leadership Alignment
+
+### Standards & Competencies
+
+#### Standards
+
+* **CCSS.ELA-Literacy.CCRA.L.6:**	Acquire and use accurately a range of general academic and domain-specific words and phrases sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when encountering an unknown term important to comprehension or expression.
+* **CCSS.ELA-Literacy.CCRA.R.2**	Determine central ideas or themes of a text and analyze their development; summarize the key supporting details and ideas.
+* **CCSS.ELA-Literacy.CCRA.W.6:** Use technology, including the Internet, to produce and publish writing and to interact and collaborate with others.
+
+#### Competencies
+
+#### 21st Century Skills
+
+## Unit 2: Game Design, Prototypes, and Playtesting (Blocks: 14; Hours: h m)
+
+### Components & Assessments
+
+#### Performance Assessments
+
+* Pitch your game to the class.
+
+#### Leadership Alignment
+
+### Standards & Competencies
+
+#### Standards
+
+#### Competencies
+
+#### 21st Century Skills
+
+## Unit 3: Digital Prototyping (Blocks: 10; Hours: h m)
+
+### Components & Assessments
+
+#### Performance Assessments
+
+#### Leadership Alignment
+
+### Standards & Competencies
+
+#### Standards
+
+#### Competencies
+
+#### 21st Century Skills
+
+## Unit 4: Culminating Project (Blocks: 10; Hours: h m)
+
+### Components & Assessments
+
+#### Performance Assessments
+
+#### Leadership Alignment
+
+### Standards & Competencies
+
+#### Standards
+
+#### Competencies
+
+#### 21st Century Skills
+
+## Unit 5: Project Presentations (Blocks: 2; Hours: h m)
+
+### Components & Assessments
+
+Wrapup by playtesting a classmate's game and providing feedback.
+Write reflection and class feedback (TEALS "wise feedback" model)
+
+#### Performance Assessments
+
+#### Leadership Alignment
+
+### Standards & Competencies
+
+#### Standards
+
+#### Competencies
+
+#### 21st Century Skills
+
+---------------------------
+
+
 # Level 1: Foundations of Game Design (Blocks: 4; Hours: 5h 20m)
 
 ## Components & Assessments
