@@ -60,6 +60,8 @@
 
 ## Final Project: Digital Game Prototype
 
+All core standards are assessed.
+
 * **Task:**
 
 * **Driving Question:** How game developers tackle big projects and collaborate to get them done?
