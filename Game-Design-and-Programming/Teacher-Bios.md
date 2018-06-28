@@ -6,7 +6,9 @@ How computers, devices, and ubiqutous high-speed networks (i.e., the Internet) a
 
 I started programming in high school, in a school that had only one computer available to students. The first college I went to also had only one computer for general use (but several people could use it at once). One of my first progamming projects was a program to play the game Go. More than not I've been programming ever since.
 
-In the course of my career I've learned over 20 programming lanugages well enough to solve problems in them of those I know maybe 5 or 6 well enough to use to tackle arbitrary tasks. I've worked with (and on) 8 major operating systems – and a few computers that didn't have an OS.
+In the course of my career I've learned over 20 programming lanugages well enough to solve problems in them of those I know maybe 5 or 6 well enough to use to tackle arbitrary tasks. I've worked with (and on) 8 major operating systems – and a few computers that didn't have an OS (Arduino, 8085 et al, early game systems, PDP-8, "smart" serial cards).
+
+Each year I pick a new language or CS concept to study, both for the pleasure of learning something new and to remind me of what it is like to be a beginner learning something new and complex.
 
 <!--
 
